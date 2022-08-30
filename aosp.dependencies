@@ -1,14 +1,14 @@
 [
-  {
-    "repository"  : "vendor_samsung_a52q",
-    "target_path" : "vendor/samsung/a52q",
-    "branch"      : "twelve",
-    "remote"      : "pixel-devices-blobs"
-  },
-  {
-    "repository"  : "device_samsung_sm7125-common",
-    "target_path" : "device/samsung/sm7125-common",
-    "branch"      : "twelve",
-    "remote"      : "pixel-devices"
-  }
+   {
+      "repository":"vendor_samsung_a52q",
+      "target_path":"vendor/samsung/a52q",
+      "branch":"twelve",
+      "remote":"pixel-devices-blobs"
+   },
+   {
+      "repository":"device_samsung_sm7125-common",
+      "target_path":"device/samsung/sm7125-common",
+      "branch":"twelve",
+      "remote":"pixel-devices"
+   }
 ]
